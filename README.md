@@ -57,13 +57,20 @@ proprios em Python e para a web.
 Outros projetos (jogo de plataforma, prototipos visuais, Arduino, Raspberry Pi)
 tem codigo e demonstracoes sob demanda.
 
+## Idiomas
+
+| Idioma | Nível |
+|---|---|
+| Espanhol | Nativo |
+| Português | Básico · aprendendo |
+| Inglês | B1 · Intermediário |
+
+Leio documentação técnica, datasheets e manuais em inglês. Trabalhando
+atualmente em português (Brasil) e espanhol.
+
 ## Em estudo
 
 `FastAPI` · `APIs REST` · `Bootstrap` · `Assembly`
-
-## Idiomas
-
-Espanhol (nativo) · Portugues (basico) · Ingles (B1)
 
 ---
 
