@@ -33,7 +33,7 @@ proprios em Python e para a web.
 
 | Projeto | Descricao |
 |---|---|
-| [UnderDown](https://github.com/Crisgtx18/Game_Abyss) | Aventura 2D estilo Terraria: mundo procedural, mineria, crafteo, inventario, misiones y jefe final. Todo procedural, sin assets externos |
+| [UnderDown](https://github.com/Crisgtx18/UnderDown) | Aventura 2D estilo Terraria: mundo procedural, mineria, crafteo, inventario, misiones y jefe final. Todo procedural, sin assets externos |
 | [Game SpaceShip](https://github.com/Crisgtx18/Game_SpaceShip) | Shooter vertical con oleadas de enemigos y jefe |
 | [Motor Grafico 2D](https://github.com/Crisgtx18/Motor-Grafico-2D) | Motor propio: tiled com scroll, colisoes, camera e sprites |
 | [Made in Abyss (prototipo)](https://github.com/Crisgtx18/Game-2D-Made-in-Abyss) | Prototipo com mundo por chunks, iluminacao e sistema de maldicao |
